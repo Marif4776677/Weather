@@ -13,34 +13,38 @@ a:hover {
 #demo {
   padding: 100px 0;
 }
-#demo .box .textbox {
-  background: rgb(156, 101, 65);
-  width: 250px;
-  height: 220px;
-  margin-bottom: 50px;
+#demo .box {
+  background: #a4caff;
   border-radius: 20px;
+  padding: 10px 0;
+  width: 220px;
 }
-#demo .box .textbox h1 {
+#demo .box .data h1 {
   padding: 10px 0 20px;
-  font-size: 40px;
+  font-size: 36px;
   font-weight: 700;
   color: white;
 }
-#demo .box .textbox input {
-  height: 50px;
-  border-radius: 30px;
+#demo .box .data h2 {
+  margin: 25px 0;
+  font-size: 25px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
 }
-#demo .box .textbox .btn {
-  margin: 18px 0;
-  background-color: white;
-  padding: 5px 20px;
+#demo .box .btn {
+  font-size: 18px;
+  background: #79afff;
+  color: white;
+  padding: 8px 50px;
+  margin: 20px 0 15px 60px;
+  width: 85px;
   border-radius: 20px;
+  display: flex;
+  justify-content: center;
 }
-#demo .box h2 {
-  text-align: center;
-  border: 2px solid rgb(112, 120, 133);
+#demo .box input {
+  padding: 8px 0 8px 5px;
   border-radius: 20px;
-  padding: 10px;
-  margin: 10px 50px;
-  max-width: 150px;
+  margin-left: 33px;
 }/*# sourceMappingURL=style.css.map */
