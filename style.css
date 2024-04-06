@@ -10,29 +10,29 @@ a:hover {
   color: black;
 }
 
-#demo {
+#weather {
   padding: 100px 0;
 }
-#demo .box {
+#weather .box {
   background: #a4caff;
   border-radius: 20px;
   padding: 10px 0;
   width: 220px;
 }
-#demo .box .data h1 {
+#weather .box .data h1 {
   padding: 10px 0 20px;
   font-size: 36px;
   font-weight: 700;
   color: white;
 }
-#demo .box .data h2 {
+#weather .box .data h2 {
   margin: 25px 0;
   font-size: 25px;
   color: #ffffff;
   display: flex;
   justify-content: center;
 }
-#demo .box .btn {
+#weather .box .btn {
   font-size: 18px;
   background: #79afff;
   color: white;
@@ -43,7 +43,7 @@ a:hover {
   display: flex;
   justify-content: center;
 }
-#demo .box input {
+#weather .box input {
   padding: 8px 0 8px 5px;
   border-radius: 20px;
   margin-left: 33px;
