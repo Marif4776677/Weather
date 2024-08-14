@@ -32,7 +32,7 @@ a:hover {
   display: flex;
   justify-content: center;
 }
-#weather .box .btn {
+#weather .box #btn {
   font-size: 18px;
   background: #79afff;
   color: white;
